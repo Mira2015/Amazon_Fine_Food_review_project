@@ -19,16 +19,13 @@ want to develop the model to predict if a review is helpful or not helpful from
 sentiment analysis. Then the modeling outcome will help Amazon’s merchants have
 better understand about customers’ attitudes towards reviews.
 
-The purpose of this analysis is to build a prediction model where we will be able
-to predict whether a review is helpful or not helpful.
+**Supervised modeling :** 
+The purpose of this analysis is to build a prediction model where we will be able to predict whether a review is helpful or not helpful. This is the classifcation problem.<br>
  ![alt text](https://github.com/Mira2015/Intermediate_Data-_Science/blob/master/binary.PNG)
 
  <br>
  
-**Summary :**  
- ![alt text](https://github.com/Mira2015/Intermediate_Data-_Science/blob/master/flowchart.PNG)
 
- 
 **Project flowchart:** 
 ![alt text](https://github.com/Mira2015/Intermediate_Data-_Science/blob/master/flowchart.PNG)
 
@@ -38,10 +35,10 @@ to predict whether a review is helpful or not helpful.
  <br>1.2 Text data preprocessing
  <br>1.3 Word cloud visualization 
 
-**Part 2: Inferential Statistics** ()
+**Part 2: Inferential Statistics** () <br>
 2.1: Hypothesis test 
 
-**Part 3: Modeling** ()
+**Part 3: Modeling** () <br>
 3.1 : Model training 
  <br>
 Investigate different classifiers and set pipeline for text feature extraction to find the best model with best text feature

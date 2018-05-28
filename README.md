@@ -27,7 +27,9 @@ The purpose of this analysis is to build a prediction model where we will be abl
  
 
 **Project flowchart:** 
-![alt text](https://github.com/Mira2015/Intermediate_Data-_Science/blob/master/flowchart.PNG)
+![alt text](https://github.com/Mira2015/Intermediate_Data-_Science/blob/master/flowchart.PNG) <br>
+ 
+![alt text](https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/modlig%20processes.png)
 
 ** This Project consists of three parts: ** 
 <br>**Part 1: Data Wrangling**   ()

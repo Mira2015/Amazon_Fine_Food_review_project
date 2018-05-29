@@ -29,18 +29,21 @@ The purpose of this analysis is to build a prediction model where we will be abl
 **Project flowchart:** 
 ![alt text](https://github.com/Mira2015/Intermediate_Data-_Science/blob/master/flowchart.PNG) <br>
  
-![alt text](https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/modlig%20processes.png)
 
 ** This Project consists of three parts: ** 
-<br>**Part 1: Data Wrangling**   ()
+<br>**Part 1: Data Wrangling**   (https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/Amazon_DataWrangling_Final.ipynb)
  <br>1.1 Numerical data clean 
  <br>1.2 Text data preprocessing
  <br>1.3 Word cloud visualization 
 
-**Part 2: Inferential Statistics** () <br>
+**Part 2: Inferential Statistics** (https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/Amazon_inferential%20statistics_Final.ipynb) <br>
 2.1: Hypothesis test 
 
-**Part 3: Modeling** () <br>
+**Part 3: Modeling** (https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/Amazon_Modeling_draft1.ipynb) <br>
+
+### Modeling processes<br>
+![alt text](https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/modlig%20processes.png)
+
 3.1 : Model training 
  <br>
 Investigate different classifiers and set pipeline for text feature extraction to find the best model with best text feature

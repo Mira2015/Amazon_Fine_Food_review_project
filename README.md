@@ -1,6 +1,5 @@
 # Amazon Food Reviews Analysis
 ![alt text](http://media.corporate-ir.net/media_files/IROL/17/176060/img/logos/amazon_logo_RGB.jpg)
-
 <Br/>**How often do you shop on Amazon ? Do you think review is important to you ?**
 
 **Have you ever hesitated to buy something if you see a negative review ?** 
@@ -33,11 +32,13 @@ The purpose of this analysis is to build a prediction model where we will be abl
 ## This Project consists of three parts:  <br>   
 
 **Part 1: Data Wrangling**  [Code](https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/Amazon_DataWrangling_Final.ipynb)
+
  <br>1.1 Numerical data clean 
  <br>1.2 Text data preprocessing
  <br>1.3 Word cloud visualization 
 
 **Part 2: Inferential Statistics** [Code](https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/Amazon_inferential%20statistics_Final.ipynb) <br>
+
 2.1: Hypothesis test 
 
 **Part 3: Modeling** [Code](https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/Amazon_Modeling_draft1.ipynb) <br>

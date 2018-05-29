@@ -8,7 +8,7 @@
 **After you read some positive reviews, you decide to buy the product and then notice the reviews are categorized as "not helpful," will this change your decision about purchasing the product? **
 
 
-##Project Overview: 
+## Project Overview: 
 
 **Background:**
 Recently more and more Amazon sellers realized how customers’ reviews can
@@ -26,13 +26,14 @@ The purpose of this analysis is to build a prediction model where we will be abl
  <br>
  
 
-##Project flowchart:
+## Project flowchart:
 ![alt text](https://github.com/Mira2015/Intermediate_Data-_Science/blob/master/flowchart.PNG) <br>
  
 
-##This Project consists of three parts:  <br>   
+## This Project consists of three parts:  <br>   
 
 **Part 1: Data Wrangling**  [Code](https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/Amazon_DataWrangling_Final.ipynb)
+
  <br>1.1 Numerical data clean 
  <br>1.2 Text data preprocessing
  <br>1.3 Word cloud visualization 
@@ -47,22 +48,12 @@ The purpose of this analysis is to build a prediction model where we will be abl
 
 3.1 : Model training 
  <br>
-Investigate different classifiers and set pipeline for text feature extraction to find the best model with best text feature
-- Baseline model: Naive Bayes  
-- Logistic Regression
-- Decision Trees
-- Random Forest 
-- AdaBoost 
- <br>
  
  3.2: Model evaluation and validation 
 <br> 
 
 3.3  Final model and optimization   <br>
 
-Hyperparameter Tuning to find the best Hyperparameter
-Method : grid search 
-<br>
 
 3.4 Conclusions
  <br>
@@ -70,9 +61,10 @@ Method : grid search
 
 **Results**
 
+ <br>
+ 
 
-
-**Installing**
+**Installing** <br>
 Uses Python 3.6 and anaconda
 
 

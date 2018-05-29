@@ -32,7 +32,6 @@ The purpose of this analysis is to build a prediction model where we will be abl
 ## This Project consists of three parts:  <br>   
 
 **Part 1: Data Wrangling**  [Code](https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/Amazon_DataWrangling_Final.ipynb)
-
  <br>1.1 Numerical data clean 
  <br>1.2 Text data preprocessing
  <br>1.3 Word cloud visualization 
@@ -43,12 +42,12 @@ The purpose of this analysis is to build a prediction model where we will be abl
 
 **Part 3: Modeling** [Code](https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/Amazon_Modeling_draft1.ipynb) <br>
 
-### Modeling processes<br>
+#### Modeling processes<br>
 ![alt text](https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/modlig%20processes.png)
 <br>3.1 : Model training 
 <br>3.2 : Model evaluation and validation 
 <br>3.3 : Final model tuning and optimization   
-<br>3.4 :  Conclusions
+<br>3.4 : Conclusions
 
 **Results**
 

@@ -45,7 +45,7 @@ The purpose of this analysis is to build a prediction model where we will be abl
 ![alt text](https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/modlig%20processes.png)
 <br>3.1. Model training 
 <br>3.2. Model evaluation and validation 
-<br>3.3. Final model tuning and optimization   
+<br>3.3. Final model tuning and optimization
 <br>3.4. Conclusions
 
 **Results**
@@ -53,7 +53,7 @@ The purpose of this analysis is to build a prediction model where we will be abl
  <br>
  
 
-**Installing** <br>
+## Installing** <br>
 Uses Python 3.6 and anaconda
 
 

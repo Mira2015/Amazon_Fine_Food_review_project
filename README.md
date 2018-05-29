@@ -32,15 +32,15 @@ The purpose of this analysis is to build a prediction model where we will be abl
 
 ##This Project consists of three parts:  <br>   
 
-**Part 1: Data Wrangling**  [Part1: Code](https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/Amazon_DataWrangling_Final.ipynb)
+**Part 1: Data Wrangling**  [Code](https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/Amazon_DataWrangling_Final.ipynb)
  <br>1.1 Numerical data clean 
  <br>1.2 Text data preprocessing
  <br>1.3 Word cloud visualization 
 
-**Part 2: Inferential Statistics** [Part2: Code](https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/Amazon_inferential%20statistics_Final.ipynb) <br>
+**Part 2: Inferential Statistics** [Code](https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/Amazon_inferential%20statistics_Final.ipynb) <br>
 2.1: Hypothesis test 
 
-**Part 3: Modeling** [Part3: Code](https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/Amazon_Modeling_draft1.ipynb) <br>
+**Part 3: Modeling** [Code](https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/Amazon_Modeling_draft1.ipynb) <br>
 
 ### Modeling processes<br>
 ![alt text](https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/modlig%20processes.png)
@@ -59,6 +59,7 @@ Investigate different classifiers and set pipeline for text feature extraction t
 <br> 
 
 3.3  Final model and optimization   <br>
+
 Hyperparameter Tuning to find the best Hyperparameter
 Method : grid search 
 <br>

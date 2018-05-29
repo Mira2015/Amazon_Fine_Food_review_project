@@ -53,7 +53,7 @@ The purpose of this analysis is to build a prediction model where we will be abl
  <br>
  
 
-## Installing** <br>
+## Installing :  <br>
 Uses Python 3.6 and anaconda
 
 

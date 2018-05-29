@@ -37,17 +37,16 @@ The purpose of this analysis is to build a prediction model where we will be abl
  <br>1.3 Word cloud visualization 
 
 **Part 2: Inferential Statistics** [Code](https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/Amazon_inferential%20statistics_Final.ipynb) <br>
-
-2.1: Hypothesis test 
+2.1. Hypothesis test 
 
 **Part 3: Modeling** [Code](https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/Amazon_Modeling_draft1.ipynb) <br>
 
 #### Modeling processes<br>
 ![alt text](https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/modlig%20processes.png)
-<br>3.1 : Model training 
-<br>3.2 : Model evaluation and validation 
-<br>3.3 : Final model tuning and optimization   
-<br>3.4 : Conclusions
+<br>3.1. Model training 
+<br>3.2. Model evaluation and validation 
+<br>3.3. Final model tuning and optimization   
+<br>3.4. Conclusions
 
 **Results**
 

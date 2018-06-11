@@ -55,7 +55,7 @@ We observe that the area under the curve(AUC) is equal to 0.89.  <br>
 The result shows that our Logistic Regression model has better performance to distinguish helpful and not helpful reviews. 
 
 ## Presentation: <br>
-[presentation] (https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/Amazon_fine_food_reviews%20.pptx)
+[presentation](https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/Amazon_fine_food_reviews%20.pptx)
 
 ## Installing:  <br>
 Uses Python 3.6 and anaconda

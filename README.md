@@ -18,7 +18,7 @@ want to develop the model to predict if a review is helpful or not helpful from
 sentiment analysis. Then the modeling outcome will help Amazon’s merchants have
 better understand about customers’ attitudes towards reviews.
 
-**Supervised modeling :** 
+**Supervised modeling:** 
 The purpose of this analysis is to build a prediction model where we will be able to predict whether a review is helpful or not helpful. This is the classifcation problem.<br>
 
  ![alt text](https://github.com/Mira2015/Intermediate_Data-_Science/blob/master/binary.PNG)
@@ -48,12 +48,12 @@ The purpose of this analysis is to build a prediction model where we will be abl
 <br>3.3. Final model tuning and optimization
 <br>3.4. Conclusions
 
-## Results : 
+## Results: <br>
+![alt text](https://github.com/Mira2015/Amazon_Fine_Food_review_project/blob/master/ROC.png)
+We observe that the area under the curve(AUC) is equal to 0.89.  <br>
+The result shows that our Logistic Regression model has better performance to distinguish helpful and not helpful reviews. 
 
- <br>
- 
-
-## Installing :  <br>
+## Installing:  <br>
 Uses Python 3.6 and anaconda
 
 
